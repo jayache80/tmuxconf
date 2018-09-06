@@ -1,7 +1,7 @@
 # tmux.conf
 ```
 cd ~/code
-git clone https://J66207@bigmac.northgrum.com/bitbucket/scm/~j66207/tmuxconf.git
+git clone https://github.com/jayache80/tmuxconf.git
 cd ~
 ln -s code/tmuxconf/.tmux.conf .tmux.conf
 ```
